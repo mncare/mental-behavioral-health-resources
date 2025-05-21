@@ -1,3 +1,11 @@
+---
+title: Home
+layout: home
+nav_order: 1
+permalink: /
+---
+
+
 # Mental & Behavioral Health Resources  
 
 Welcome to Minnesota Community Care’s Mental and Behavioral Health Resource Hub. This site is a growing collection of tools, services, and supports designed to help you care for your emotional and mental well-being.
