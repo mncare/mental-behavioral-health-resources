@@ -1,5 +1,4 @@
 # Mental & Behavioral Health Resources  
-**Minnesota Community Care**
 
 Welcome to Minnesota Community Care’s Mental and Behavioral Health Resource Hub. This site is a growing collection of tools, services, and supports designed to help you care for your emotional and mental well-being.
 
@@ -12,7 +11,7 @@ This resource hub connects you to:
 - Educational materials on mental wellness, stress, trauma, and more
 - Local and national crisis lines and support networks
 - Community-based resources tailored to cultural and linguistic needs
-- Guidance on accessing therapy, psychiatry, and support groups
+- Guidance on accessing therapy, psychiatry, and MAT/Renewal Services
 - Tips for caregivers, families, and youth
 
 Whether you're looking for immediate help, long-term care, or simply want to learn more, this is a good place to start.
@@ -31,14 +30,12 @@ All are welcome—regardless of income, insurance, background, or immigration st
 ---
 
 ## 📌 Start Here
-- [Explore Services at Minnesota Community Care](#)
-- [Find Mental Health Emergency Contacts](#)
-- [Access Multilingual & Cultural Resources](#)
-- [Read Mental Health Education Materials](#)
+- [Link](#)
+- [Link](#)
+- [Link](#)
+- [Link](#)
 
 ---
 
 ## 💚 Your Mental Health Matters
-You are not alone. This space is here to help you navigate, connect, and heal.
-
-[Learn more about our approach to care →](#)
+You are not alone. This space is here to help you navigate, learn, connect, and heal.
